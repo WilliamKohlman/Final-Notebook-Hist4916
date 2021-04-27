@@ -25,7 +25,9 @@ I believe this notebook works to help visualize that the Ottawa area has manufac
 
 ## References from this notebook
 Harper, Charlie. “Visualizing Data with Bokeh and Pandas.” Programming Historian, July 27, 2018. https://programminghistorian.org/en/lessons/visualizing-with-bokeh. 
-Open data for Ingenium collections
+
+Open data for Ingenium collections https://ingeniumcanada.org/collection-research/artifact-open-data-set-mash-up
+
 “Histograms.” Plotly. Accessed April 27, 2021. https://plotly.com/python/histograms/. 
 
 ### Link to the live binder environment
